@@ -38,6 +38,7 @@
   # start the server by running following command 
   $ node app.js
   ```
+  
  ```
  The server will be running at 
  http://localhost:3000/
@@ -59,3 +60,6 @@
     "bill_amount" : string
     }
   ```
+ #Note:
+  - To test the functionality from scratch clear the data in ./data/bills.json  file 
+  
